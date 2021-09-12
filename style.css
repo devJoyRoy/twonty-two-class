@@ -1,0 +1,73 @@
+body h1, h2 ,h3, h4, h5, h6, {
+  font-family:'Work Sans', sans-serif;
+}
+img{
+  max-width: 100%;
+}
+.navbar{}
+.navbar img{
+  width: 100px;
+
+}
+.hader-laft-itams{
+  margin-top: 126px;
+}
+.hader-laft-itams a{
+  background-color: #8392fd;
+  border: 2px solid #8392fd;
+  font-weight: 700;
+  color: white;
+}
+/* numbar-section */
+.numbar-section{
+  background-color: #8392fd;
+
+}
+/* prodet-itmes */
+.prodet-itmes{}
+.card-head{}
+.card-head h1{
+  background-color: rgb(243, 243, 243);
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  line-height: 95px;
+}
+.card-head a{
+  border: 2px solid #8392fd;
+  color: #8392fd;
+  box-shadow: 1px 1px 12px #8392fd;
+  font-weight: 600;
+}
+/* manbar-hader */
+
+.manbar-section-man{
+  margin-top: 127px;
+}
+.manbar-hader{
+  
+}
+.card-body h4{}
+.card-body h5{}
+.card-body h6{}
+
+
+.manbar-hader img{
+  width: 100px;
+  margin-top: -61px;
+  height: 100%;
+  margin-left: -132px;
+}
+.card-body a{
+  border: 2px solid #e9e9e9;
+  color: rgb(51, 51, 51);
+  font-weight: 700;
+  box-shadow: 2px 4px 10px #c2c2c2;
+}
+
+.box{}
+/* fotter-form */
+.fotter-form{}
+.fotter-form textarea{
+  height: 150px;
+}
